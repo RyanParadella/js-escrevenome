@@ -1,4 +1,4 @@
-# js-escrevenome
+# js-by-ryan
 //variáveis da bolinha
 
 let xBolinha = 100;
